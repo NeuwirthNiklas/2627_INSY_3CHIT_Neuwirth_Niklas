@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Z1CEwyTA0bs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bioho\\RiderProjects\\2627_INSY_3CHIT_Neuwirth_Niklas\\CRUD\\CRUD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bioho\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.15\\microsoft.extensions.dependencyinjection.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\bioho\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\10.0.15\\microsoft.extensions.logging.abstractions.10.0.15.nupkg.sha512",
+    "C:\\Users\\bioho\\.nuget\\packages\\mysqlconnector\\3.0.0\\mysqlconnector.3.0.0.nupkg.sha512",
+    "C:\\Users\\bioho\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.12\\microsoft.netcore.app.ref.10.0.12.nupkg.sha512",
+    "C:\\Users\\bioho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\10.0.12\\microsoft.windowsdesktop.app.ref.10.0.12.nupkg.sha512",
+    "C:\\Users\\bioho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.12\\microsoft.aspnetcore.app.ref.10.0.12.nupkg.sha512",
+    "C:\\Users\\bioho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\10.0.12\\microsoft.netcore.app.host.win-x64.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
